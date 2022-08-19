@@ -12,12 +12,15 @@ Familiarizarse con los comandos básicos de git y con la consola de rails.
 
 ## Pasos previos
 
+### Crear cuentas
 1. Crear una cuenta en github si no tienen una [https://github.com/signup](https://github.com/signup)
-1. Forkear el repositorio del laboratorio [https://github.com/I110IS/lab1/fork](https://github.com/I110IS/lab1/fork)
 1. Crear una cuenta en [Gitpod](https://gitpod.io/login/)
+1. Actualizar la integración de Github en Gitpod [https://gitpod.io/integrations](https://gitpod.io/integrations) para incluir los permisos: `public_repo`, `repo`
+
+### Preparar repositorio
+1. Forkear el repositorio del laboratorio [https://github.com/I110IS/lab1/fork](https://github.com/I110IS/lab1/fork)
 1. Abrir el repositorio forkeado del laboratorio en Gitpod (por ejemplo: [https://gitpod.io/github.com/ruso420/lab1](https://gitpod.io/github.com/ruso420/lab1))
 1. Esperar que termine la configuración del entorno
-1. Actualizar la integración de Github en Gitpod [https://gitpod.io/integrations](https://gitpod.io/integrations) para incluir los permisos: `public_repo`, `repo`
 
 Las últimas lineas de la configuración del entorno se verán así:
 ```
